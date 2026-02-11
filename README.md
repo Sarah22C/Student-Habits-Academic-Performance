@@ -1,4 +1,4 @@
-# Student-Habits-Academic-Performance
+# Student_Habits_Academic_Performance
 An analysis of academic performance based on varying habits. 
 
 ## Overview
@@ -33,3 +33,18 @@ This project focuses on answering a central question:
 - Translate findings into insights usable for intervention planning
 
 ## Student Segments Created
+-At Risk Students: Students flagged as likely to drop out. Approximate size: 1582 students
+-Failing High Risk: Students who are at risk of dropping out, currently failing exams (<70), very low/low motivation, highly stressed, and high exam anxiety.  Approximate size: 364
+-High Achiever At Risk: Students who previously had strong GPAs (>= 3.5), are not at risk of dropping out, and show low motivation and high stress.
+-Top Performers: Students who exam score >= 95, previous GPA >=3.5, and not at risk of dropping out. 
+
+## Key Findings
+-Stress and motivation alone do not predict success
+    Some top performers still reported high stress and low motivation
+-Sleep showed one of the clearest performance differences
+    Top performers skewed toward 7–8+ hours
+-Tutoring access may act as a protective factor
+    At-risk students were significantly more likely to lack tutoring support
+-Many at-risk students were previously high performers
+    Suggests burnout / transition risk patterns
+-Exercise and study consistency patterns differed between groups
